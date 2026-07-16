@@ -24,7 +24,8 @@
 ## **Requisitos**
 * Desenvolver arquitetura do projeto em MVC.
 * Aplicar o pattern de herança.
-* Deve ser possível realizar os testes das funcionalidades via Postman ou similares.
+* Implementar portal com todas as funcionalidades.
+* Deve ser possível também realizar os testes das funcionalidades via Postman ou similares.
 
 ## Passos para envio da avaliação
 * Crie um fork da master para seu repositório com o seguinte nome: usuário do git e data, ex.: devrte-20231201.

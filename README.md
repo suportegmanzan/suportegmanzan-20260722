@@ -1,6 +1,9 @@
-# Sistema de Gestão de Colaboradores e Unidades em C# com PostgreSQL
+# Sistema de Gestão de Colaboradores e Unidades
 
-Este é um projeto de backend que implementa um Sistema de Gestão de Colaboradores e Unidades, utilizando o PostgreSQL como banco de dados.
+## **Tecnologias**
+* Backend: C#.
+* Front: Angular.
+* DB: PostgreSQL.
 
 ## **Funcionalidades**
 * Cadastro de Usuário: Os usuários devem ser cadastrados com um código único, login, senha e status (ativo ou inativo).
